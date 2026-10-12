@@ -138,6 +138,37 @@ Sri Sharda Institute of Professional Studies
 - **LinkedIn:** [(www.linkedin.com/in/arpit-barnwal)](https://www.linkedin.com/in/arpit-barnwal)
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpitbarnwal0712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitbarnwal0712&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arpitbarnwal0712&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Arpitbarnwal0712/morse_code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpitbarnwal0712&repo=morse_code&theme=tokyonight&hide_border=true" alt="Morse Code Studio"/>
+  </a>
+  <a href="https://github.com/Arpitbarnwal0712/marvel_characters">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpitbarnwal0712&repo=marvel_characters&theme=tokyonight&hide_border=true" alt="Marvel Characters"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Learning by building. Growing with every project.</i>
+</p>
 
 *Learning by building. Growing with every project.*
 
