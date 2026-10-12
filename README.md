@@ -1,4 +1,30 @@
-# Hi, I'm Arpit Barnwal 👋
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Arpit%20Barnwal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=16)
+
+<h1 align="center">Hi 👋, I'm Arpit Barnwal</h1>
+
+<h3 align="center">MCA Student @ GLA University | Java & Full Stack Development</h3>
+
+<p align="center">
+  <a href="https://github.com/Arpitbarnwal0712">GitHub Profile</a> •
+  <a href="https://morse-code-lilac.vercel.app/">Morse Code Studio</a> •
+  <a href="https://marvel-characters-bhov.vercel.app/">Marvel Characters</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Currently pursuing MCA at GLA University
+- 💻 Interested in Java, full-stack development, and software engineering
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Learning by building practical projects
+- 🌱 Focused on writing cleaner code and improving problem-solving skills
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nodejs,express,mongodb,mysql,python,c,git,github,vscode,vite" alt="Technologies and tools"/>
+</p>
 
 ### MCA Student @ GLA University | Java & Full Stack Development | DSA
 
